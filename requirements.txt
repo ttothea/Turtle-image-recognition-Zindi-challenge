@@ -1,4 +1,6 @@
 jupyterlab
+pandas
+scikit-learn
 matplotlib
 Pillow
 numpy
