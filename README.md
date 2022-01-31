@@ -1,9 +1,8 @@
-# Capstone Project - Turtle Recall: Conservation Challenge 
+# Capstone Project - [Turtle Recall: Conservation Challenge](https://zindi.africa/competitions/turtle-recall-conservation-challenge) 
 
 Team : Maike, Tobias, Tolga, Kai-Yang
 
 
-https://zindi.africa/competitions/turtle-recall-conservation-challenge
 
 ## Description
 Being able to distinguish between individuals of the same species is a critical tool for modern conservation. For example, sea turtle conservation efforts aim to track individual turtles to help reveal patterns of movement and residency. Sea turtles are a known indicator species which means that their presence and abundance reflects the health of the wider ecosystem. Therefore, increasing our ability to identify and understand them can enhance our ecological understanding.
