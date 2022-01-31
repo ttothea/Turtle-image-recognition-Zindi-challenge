@@ -13,3 +13,5 @@ dm-haiku
 optax
 immutabledict
 tqdm
+tree
+
