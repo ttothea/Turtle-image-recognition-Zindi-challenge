@@ -2,6 +2,7 @@ jupyterlab
 pandas
 scikit-learn
 matplotlib
+seaborn
 Pillow
 numpy
 scipy
