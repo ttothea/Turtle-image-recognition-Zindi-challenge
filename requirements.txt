@@ -12,5 +12,5 @@ dm-haiku
 optax
 immutabledict
 tqdm
-tree
+dm-tree
 dill
