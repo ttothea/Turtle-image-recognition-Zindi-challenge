@@ -8,7 +8,6 @@ numpy
 scipy
 tensorflow-hub
 jax
-haiku
 dm-haiku
 optax
 immutabledict
