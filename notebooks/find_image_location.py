@@ -13,7 +13,7 @@ from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_a
 image_dir = "../images/"
 train_data = pd.read_csv('../data/train_corrected.csv')
 train_data.image_id = train_data.image_id.apply(lambda x: x.strip()+".JPG")
-test_data = pd.read_csv('../data/test.csv')
+test_data = pd.read_csv('../data/test_corrected.csv')
 test_data.image_id = test_data.image_id.apply(lambda x: x.strip()+".JPG")
 
 #Get unique_turtle_ids from train.csv
@@ -51,7 +51,7 @@ def preprocess(augment = True):
                 rescale            = 1./255,
                 shear_range        = 0.2,
                 zoom_range         = 0.2,
-                horizontal_flip    = True,
+                horizontal_flip    = False,
                 fill_mode          = 'nearest')
 
         test_datagen = ImageDataGenerator(rescale=1./255)
