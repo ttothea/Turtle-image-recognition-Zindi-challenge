@@ -2,6 +2,10 @@
 
 Team : Maike, Tobias, Tolga, Kai-Yang
 
+---
+Vorschlag
+Change repo name to : 2022/02: Turtle Recall  Image Recognition (Zindi Challenge / Neue Fische Capstone)
+---
 
 
 ## Description
