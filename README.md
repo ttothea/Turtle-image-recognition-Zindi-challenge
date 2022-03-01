@@ -1,7 +1,7 @@
 # Capstone Project - [Turtle Recall: Conservation Challenge](https://zindi.africa/competitions/turtle-recall-conservation-challenge) 
 
 * Data Science Trainees at Neuefische: Maike Wehmeyer, Tobias Engbring, Tolga Çebi, Kai-Yang Lee
-* Duration: 4 weeks
+* Project duration: 4 weeks
 
 
 
