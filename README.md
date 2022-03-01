@@ -1,12 +1,6 @@
 # Capstone Project - [Turtle Recall: Conservation Challenge](https://zindi.africa/competitions/turtle-recall-conservation-challenge) 
 
-Team : Maike, Tobias, Tolga, Kai-Yang
-
----
-Vorschlag
-Change repo name to : 2022/02: Turtle Recall  Image Recognition (Zindi Challenge / Neue Fische Capstone)
----
-
+Zindi Challange Team : Maike Wehmeyer, Tobias Engbring, Tolga Çebi, Kai-Yang Lee
 
 ## Description
 Being able to distinguish between individuals of the same species is a critical tool for modern conservation. For example, sea turtle conservation efforts aim to track individual turtles to help reveal patterns of movement and residency. Sea turtles are a known indicator species which means that their presence and abundance reflects the health of the wider ecosystem. Therefore, increasing our ability to identify and understand them can enhance our ecological understanding.
